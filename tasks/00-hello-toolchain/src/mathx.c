@@ -2,7 +2,7 @@
 
 int square(int x)
 {
-    return x*x;
+    return x * x;
 }
 
 int clamp(int x, int lo, int hi)
